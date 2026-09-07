@@ -313,7 +313,6 @@ Stated plainly, because they bound what the results mean.
   author  = {Abdullah, Yamlick and Chayon, Muhammad Hasibur Rashid and
              Mahadi, Mahamodul Hasan},
   year    = {2026},
-  note    = {Manuscript under review}
 }
 ```
 
