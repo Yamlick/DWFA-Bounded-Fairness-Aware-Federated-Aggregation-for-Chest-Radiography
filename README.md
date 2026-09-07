@@ -312,7 +312,7 @@ Stated plainly, because they bound what the results mean.
              Radiography With Run-Aware External Evaluation},
   author  = {Abdullah, Yamlick and Chayon, Muhammad Hasibur Rashid and
              Mahadi, Mahamodul Hasan},
-  year    = {2026},
+  year    = {2026}
 }
 ```
 
