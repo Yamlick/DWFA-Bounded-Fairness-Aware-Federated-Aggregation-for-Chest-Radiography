@@ -24,7 +24,7 @@ Department of Computer Science, American International University-Bangladesh (AI
 chayon@aiub.edu
 
 **Mahamodul Hasan Mahadi**
-Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
+Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh mahamodulhasanmahadi@gmail.com
 
 All queries about the method, the artifacts, or the analysis should go to the corresponding author.
 
