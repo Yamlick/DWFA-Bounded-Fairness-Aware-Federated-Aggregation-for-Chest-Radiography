@@ -34,7 +34,7 @@ Department of Software Engineering, College of Computer and Information Sciences
 **Saifur Rahman Sabuj**
 Department of Automotive Engineering, Hanyang University, Seoul, 04763, South Korea s.r.sabuj@ieee.org
 
-**Jia Uddin**
+**Jia Uddin** *(Corresponding Author)*
 AI and Big Data Department, Woosong University, Daejeon, Republic of Korea jia.uddin@wsu.ac.kr
 
 ---
