@@ -28,6 +28,15 @@ Department of Computer Science and Engineering, Bangladesh University of Enginee
 
 All queries about the method, the artifacts, or the analysis should go to the corresponding author.
 
+**M. Abdullah-Al-Wadud**
+Department of Software Engineering, College of Computer and Information Sciences, King Saud University, 11543, Riyadh, Saudi Arabia mwadud@ksu.edu.sa
+
+**Saifur Rahman Sabuj**
+Department of Automotive Engineering, Hanyang University, Seoul, 04763, South Korea s.r.sabuj@ieee.org
+
+**Jia Uddin**
+AI and Big Data Department, Woosong University, Daejeon, Republic of Korea jia.uddin@wsu.ac.kr
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=60&section=header&text=Research%20Motivation&fontSize=26&fontColor=ffffff" />
